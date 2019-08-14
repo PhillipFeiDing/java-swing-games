@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Position
+comment1.params=x\ y
+comment1.target=Position(double,\ double)
+comment2.params=
+comment2.target=double\ x()
+comment3.params=
+comment3.target=double\ y()
+numComments=4

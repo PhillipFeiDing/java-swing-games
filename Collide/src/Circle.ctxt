@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=
+comment1.target=double\ getX()
+comment2.params=
+comment2.target=double\ getY()
+comment3.params=
+comment3.target=double\ getR()
+comment4.params=
+comment4.target=boolean\ getStillExists()
+comment5.params=
+comment5.target=java.awt.Color\ getColor()
+comment6.params=x\ y\ r\ color
+comment6.target=Circle(double,\ double,\ double,\ java.awt.Color)
+comment7.params=
+comment7.target=void\ destroy()
+numComments=8

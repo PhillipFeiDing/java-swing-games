@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AlgoFrame
+comment1.params=title\ canvasWidth\ canvasHeight
+comment1.target=AlgoFrame(java.lang.String,\ int,\ int)
+comment2.params=title
+comment2.target=AlgoFrame(java.lang.String)
+comment3.params=
+comment3.target=int\ getCanvasWidth()
+comment4.params=
+comment4.target=int\ getCanvasHeight()
+comment5.params=bodies\ circles\ movingBall\ mapDimension\ timer\ track\ isRunning
+comment5.target=void\ render(Body[],\ Circle[],\ MovingBall,\ MapDimension,\ Timer,\ Track,\ java.lang.Boolean)
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=AlgoVisHelper
+comment1.params=
+comment1.target=AlgoVisHelper()
+comment10.params=g\ text\ centerx\ centery
+comment10.target=void\ drawTextCenterAlligned(java.awt.Graphics2D,\ java.lang.String,\ int,\ int)
+comment2.params=g\ x\ y\ r
+comment2.target=void\ strokeCircle(java.awt.Graphics2D,\ int,\ int,\ int)
+comment3.params=g\ x\ y\ r
+comment3.target=void\ fillCircle(java.awt.Graphics2D,\ int,\ int,\ int)
+comment4.params=g\ x\ y\ w\ h
+comment4.target=void\ strokeRectangle(java.awt.Graphics2D,\ int,\ int,\ int,\ int)
+comment5.params=g\ x\ y\ w\ h
+comment5.target=void\ fillRectangle(java.awt.Graphics2D,\ int,\ int,\ int,\ int)
+comment6.params=g\ color
+comment6.target=void\ setColor(java.awt.Graphics2D,\ java.awt.Color)
+comment7.params=g\ w
+comment7.target=void\ setStrokeWidth(java.awt.Graphics2D,\ int)
+comment8.params=t
+comment8.target=void\ pause(int)
+comment9.params=g\ x\ y\ imageURL
+comment9.target=void\ putImage(java.awt.Graphics2D,\ int,\ int,\ java.lang.String)
+numComments=11

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AlgoVisualizer
+comment1.params=
+comment1.target=boolean\ getIsRunning()
+comment2.params=
+comment2.target=boolean\ getOutcomePage()
+comment3.params=
+comment3.target=int\ getLevel()
+comment4.params=sceneWidth\ sceneHeight\ enemy\ me
+comment4.target=AlgoVisualizer(int,\ int,\ Character,\ Character)
+comment5.params=
+comment5.target=void\ run()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

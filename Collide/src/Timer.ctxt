@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Timer
+comment1.params=totalSeconds
+comment1.target=java.lang.String\ toFormattedString(int)
+comment2.params=
+comment2.target=Timer()
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=
+comment5.target=int\ getSecondsElapsed()
+numComments=6
